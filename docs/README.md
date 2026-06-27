@@ -20,3 +20,4 @@ Quality assurance is embedded throughout execution and release. OctoAcme expects
 - [Release and Deployment](./octoacme-release-and-deployment.md)
 - [Retrospective and Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](./octoacme-roles-and-personas.md)
+- [Cross-Functional Collaboration Checklist](./octoacme-cross-functional-collaboration-checklist.md)
